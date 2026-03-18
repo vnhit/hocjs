@@ -33,4 +33,10 @@ console.log(result);
 // thực hành làm quen vs các hàm 
 function declarationFunction (){}
 var expressionFunction  = function(){} 
+//thực hành object
+var student = {
+    name: 'anh',
+    age: 16,
+    address: 'hn',
+}
 
