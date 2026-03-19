@@ -5,3 +5,5 @@
 -hàm
 #Day2:
 -chuỗi,mảng,object
+#Day3 
+-rẽ nhánh,toán tử 3 ngôi
