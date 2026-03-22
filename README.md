@@ -9,3 +9,5 @@
 -rẽ nhánh,toán tử 3 ngôi
 #Day4
 Vòng lặp,
+#Day5
+-mảng 2,callback
